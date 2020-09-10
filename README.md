@@ -1,0 +1,2 @@
+# SNWebdevNaloge
+Tečaj SmartNinja - Naloge
