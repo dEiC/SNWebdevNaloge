@@ -11,7 +11,7 @@ while True:
     miles = user_input * 0.621371192
     print("Your " + str(user_input) + " KM is same as " + str(miles) +" miles")
     
-    end = input( "Do you want to end the game? (y/n)? " )
+    end = input( "Do you want to convert more KM? (y/n)? " )
 
-    if end == "y":
+    if end == "n":
         break
